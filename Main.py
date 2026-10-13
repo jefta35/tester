@@ -9,7 +9,7 @@ def buka_tampil_pasien():
 def menu_utama():
     while True:
         print("\n" + "=" * 40)
-        print(" KLINIK PRATAMA SEHAT ".center(40, "="))
+        print(" KLINIK SEHAT ".center(40, "="))
         print("=" * 40)
         print("1. Tambah Pasien")
         print("2. Tampilkan Pasien")
